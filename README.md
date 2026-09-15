@@ -245,4 +245,4 @@ This repository serves as the official landing page for BioShock. The software i
 **Get the most recent version of BioShock today!**
 
 ---
-**Last updated:** 2026-09-15 17:22:53 UTC
+**Last updated:** 2026-09-15 20:34:28 UTC
